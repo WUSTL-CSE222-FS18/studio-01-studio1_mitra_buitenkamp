@@ -8,6 +8,9 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Andrew Mitra
+Dyon Buitenkamp
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +20,10 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+
+Problem: not getting drinks fast enough, trying to get through crowd to bartender, wrong drink order
+
+want a quick easy way to always have a drink in hand at all times to fuel my alcoholism
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,6 +35,12 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
+hard time getting up
+need cup of coffee ready
+don't want to wait
+always presses snooze
+
+
 (6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
 
 ## Part 1.4: Proposing solutions (8 minutes)
@@ -36,6 +49,14 @@ Return to your original locations.  In this step all groups will act like Design
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
 
+1. sensors detect when user gets out of bed, coffee will start to be brewed
+  * Advantage: coffee is ready, no time making coffee
+  * Disadvantage: set up the night before
+
+1. music alarm that slowly wakes the user up, alarm will then go off at designated time. To turn off alarm, user will have to get out of bed which will be detected by sensors. 10 min period where if user re enters bed alarm sounds
+  * Advantage: more time in morning, no snooze
+  * Disadvantage: irritating to user and neighbors, super stubborn people could stand and go back to bed
+
 ## Part 1.5: Feedback (10 minutes total)
 
 Meet with your corresponding group again. And, again, select which set will be Designers first.
@@ -43,6 +64,8 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+1. Both didn't have coffee ready when waking up, want coffee already made
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +77,16 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+* coffee machine knows when alarm is and starts brewing so it is hot and ready right before the alarm goes off
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+1. user friendly
+1. utility
+1. attraction
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +96,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+* the customer was very happy
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+* Met out needs, had the same functionality but just had a little extra
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -83,12 +115,32 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
+  1. attractiveness
+  1. utility
+  1. user experience
 - Things
+  1. coffee maker
+  1. coffee mug
+  1. refrigerator
 - Services
+  1. Music
+  1. Smart Home
+  1. Alarm
 - Feedback
+  1. Vibrate
+  1. Motion
+  1. sound
 - Human Actions
+  1. tilt
+  1. shake
+  1. tap
 - Missions
+  1. Supper Shopper
+  1. Obstacles
+  1. Teleportation
 
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
+
+* Mission: Transportation: tells user when bus is here 
